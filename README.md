@@ -40,7 +40,7 @@ developer = {
 | Category | Details |
 |---|---|
 | 🤖 **Telegram Bots** | Advanced bots using Pyrogram & Telethon |
-| 📥 **Video Downloaders** | M3U8, protected streams, DRM bypass |
+| 📥 **Video Downloaders** | M3U8 |
 | 🔐 **Auth Systems** | Session-based authenticated API pipelines |
 | ⚙️ **Automation Tools** | Scrapers, schedulers, workflow bots |
 | 📦 **Large File Systems** | 2GB+ uploads via userbots |
