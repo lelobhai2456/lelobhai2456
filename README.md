@@ -93,10 +93,10 @@ Specialty :  Web Scraping · Reverse Engineering · Media Processing
 | 🥇 | Built **50+ working Telegram bots** |
 |:---:|:---|
 | ⚙️ | Created scalable systems for **large media delivery** |
-| 🔐 | Implemented **secure authenticated download pipelines** |
+| 🔐 | Implemented **secure  download pipelines** |
 | 🌐 | Worked across **multiple APIs & platforms** |
 | 📡 | Built **live stream scrapers & M3U8 processors** |
-| 🛡️ | Solved complex **DRM, token expiry & flood limit** challenges |
+| 🛡️ | Solved complex ** token expiry & flood limit** challenges |
 
 </div>
 
@@ -119,7 +119,6 @@ Specialty :  Web Scraping · Reverse Engineering · Media Processing
 
 ## 💼 Highlight Projects
 
-- 🤖 **Classplus + PW Unified Downloader Bot** — Full extraction, decryption, upload & mirror pipeline for educational platforms
 - 📥 **M3U8 Video Download Systems** — Protected stream downloaders with segment-level decryption
 - 🔄 **Auto-forwarding & Scraping Bots** — Batch forwarders with flood control & cache management
 - ⚡ **Scheduled Batch Upload Bots** — IST timezone-synced daily upload systems with MongoDB-backed state
