@@ -95,8 +95,8 @@ Specialty :  Web Scraping · Reverse Engineering · Media Processing
 | ⚙️ | Created scalable systems for **large media delivery** |
 | 🔐 | Implemented **secure  download pipelines** |
 | 🌐 | Worked across **multiple APIs & platforms** |
-| 📡 | Built **live stream scrapers & M3U8 processors** |
-| 🛡️ | Solved complex ** token expiry & flood limit** challenges |
+| 📡 | Built **stream scrapers & M3U8 processors** |
+| 🛡️ | Solved complex **token expiry & flood limit** challenges |
 
 </div>
 
